@@ -2,6 +2,7 @@ import Topbar from "./components/topbar/Topbar";
 import Intro from "./components/intro/Intro";
 import Blog from "./components/blog/Blog";
 import Contact from "./components/contact/Contact";
+import "./app.scss";
 
 function App() {
   return (
